@@ -1,15 +1,15 @@
 [
   {
     "full_name": "scrapy/scrapy",
-    "stargazers_count": 43026,
-    "open_issues_count": 770,
-    "forks_count": 9543
+    "stargazers_count": 43060,
+    "open_issues_count": 771,
+    "forks_count": 9550
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 59206,
-    "open_issues_count": 472,
-    "forks_count": 14002
+    "stargazers_count": 59403,
+    "open_issues_count": 467,
+    "forks_count": 14075
   },
   {
     "full_name": "CodeForPhilly/chime",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "EthicalML/awesome-production-machine-learning",
-    "stargazers_count": 11065,
-    "open_issues_count": 15,
-    "forks_count": 1556
+    "stargazers_count": 11098,
+    "open_issues_count": 16,
+    "forks_count": 1558
   },
   {
     "full_name": "triketora/women-in-software-eng",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "samshadwell/TrumpScript",
-    "stargazers_count": 7421,
+    "stargazers_count": 7418,
     "open_issues_count": 5,
     "forks_count": 409
   }
